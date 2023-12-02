@@ -14,6 +14,9 @@
 		<Item Name="Day1 - Trebuchet" Type="Folder" URL="../Day1 - Trebuchet">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day2 - Cube Conundrum" Type="Folder" URL="../Day2 - Cube Conundrum">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
