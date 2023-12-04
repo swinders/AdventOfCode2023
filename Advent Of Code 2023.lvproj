@@ -20,6 +20,9 @@
 		<Item Name="Day3 - Gear Ratios" Type="Folder" URL="../Day3 - Gear Ratios">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day4 - Scratchcards" Type="Folder" URL="../Day4 - Scratchcards">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
