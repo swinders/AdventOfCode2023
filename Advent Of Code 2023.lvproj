@@ -29,6 +29,9 @@
 		<Item Name="Day6 - Wait For It" Type="Folder" URL="../Day6 - Wait For It">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day7 - Camel Cards" Type="Folder" URL="../Day7 - Camel Cards">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
